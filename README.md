@@ -3,7 +3,8 @@ Doubly linked list with dummy nodes
 
 <strong> A node struct </strong>
   
-![image](https://user-images.githubusercontent.com/46551002/70389437-99c06100-1a02-11ea-9824-491963fa4ce8.png)
+![image](https://user-images.githubusercontent.com/46551002/70389562-7f878280-1a04-11ea-870f-36d26dc10d7c.png)
+
   
   
   
