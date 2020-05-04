@@ -1,5 +1,6 @@
 # Doubly-linked-list-with-dummy-nodes
-Doubly linked list with dummy nodes
+Doubly linked list with dummy nodes   
+: 스마트 포인터를 이용한 양방향 연결리스트
 
 <br><br>
 
